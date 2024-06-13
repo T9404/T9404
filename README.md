@@ -2,7 +2,6 @@
 
 #### My name is Sergey. I'm learning Backend development, in particular, Java and Spring. 
 #### I'm studying Software Engineering at the Higher IT School of TSU.
-#### You can reach me here: ghubman1@gmail.com 
 
 <br />
 
